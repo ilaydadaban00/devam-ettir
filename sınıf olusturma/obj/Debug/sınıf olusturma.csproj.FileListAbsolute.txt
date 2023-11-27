@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\bin\Debug\sınıf olusturma.exe.config
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\bin\Debug\sınıf olusturma.exe
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\bin\Debug\sınıf olusturma.pdb
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf olusturma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf olusturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf_olusturma.Form1.resources
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf_olusturma.Properties.Resources.resources
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf olusturma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf olusturma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf olusturma.exe
+C:\Users\User\source\repos\sınıf olusturma\sınıf olusturma\obj\Debug\sınıf olusturma.pdb
